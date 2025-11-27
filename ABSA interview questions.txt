@@ -37,5 +37,6 @@ Pallavi questions:
 
 1) You are joining a new team and they use a shared platform. There is no change going from your team, but there is a release planned from another team. How will you identify the regression test cases for your application and support the sign off in 1 day?
 
+Learning GitHub
 
 2)UPI payment - Need to test the payment transaction. What are the important testing points excluding security testing. If payment is successful, amount is not debited, where would be the problem?
