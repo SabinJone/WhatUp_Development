@@ -1,2 +1,2 @@
 # WhatUp_Development
-This repository is to create a chat application
+This repository is to create a chat application.
