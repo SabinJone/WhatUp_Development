@@ -31,6 +31,10 @@ Automation Code:
           9. Click 'Cart' button 
           10. Verify the Price, Quantity and Total and print the products with Price listed in Asc order.
 
+7. Adding audio feature
+
+8. Adding video feature
+
 ============================================================================================================================================================
 
 Pallavi questions:
@@ -40,3 +44,4 @@ Pallavi questions:
 Learning GitHub
 
 2)UPI payment - Need to test the payment transaction. What are the important testing points excluding security testing. If payment is successful, amount is not debited, where would be the problem?
+
