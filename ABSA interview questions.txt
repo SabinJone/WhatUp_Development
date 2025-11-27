@@ -1,0 +1,41 @@
+ABSA interview questions - 05/05/2025 - Kavin
+
+============================================================================================================================================================
+
+Minal questions:
+
+1)Self intro 
+
+2)Framework explanation with respect to the project that you worked on. OOPS concepts you have used in your framework.
+
+3)What is your role in your framework. Are you a user or architect or You maintained the framework. Enhancements you did in your framework.
+
+4)Select class. Write code for Dropdown and what are the types of selectByMethods.
+
+5)HashMap and Hashset - Difference. How have you implemented them in your project.
+
+6)Different status codes you have come across in API testing?
+
+7)Can you describe a critical defect that you personally discovered during your project, which had the potential to significantly impact the application's functionality, user experience, or business outcome? How you discovered it, why it was critical? What additional steps did you take (beyond your role) to resolve it? What was the outcome and how your efforts contributed to the project's success?
+
+Automation Code: 	  
+
+	  1. Launch browser 
+	  2. Navigate to url 'http://automationexercise.com' 
+          3. Add any 3 product to cart 
+          4. Click 'View Cart' 
+          5. Verify that cart page is displayed
+	  6. Click Proceed To Checkout 
+          7. Click 'Register / Login' - 
+          8. Enter Signup details as - Team@gmail.com / 1234567890 
+          9. Click 'Cart' button 
+          10. Verify the Price, Quantity and Total and print the products with Price listed in Asc order.
+
+============================================================================================================================================================
+
+Pallavi questions:
+
+1) You are joining a new team and they use a shared platform. There is no change going from your team, but there is a release planned from another team. How will you identify the regression test cases for your application and support the sign off in 1 day?
+
+
+2)UPI payment - Need to test the payment transaction. What are the important testing points excluding security testing. If payment is successful, amount is not debited, where would be the problem?
